@@ -52,11 +52,11 @@
 **문제:**  
 1. 각 주문에 포함된 제품의 이름, 수량, 단가, 총 금액(수량 * 단가), 그리고 주문 날짜를 조회하는 SQL JOIN 문을 작성하세요. (15점)
 
-![ex_screenshot](./resource/Test4_1.png)
+![ex_screenshot](./resource/Test4_2.png)
 
 2. 각 고객의 이름과 그들이 총 몇 개의 제품을 구매했는지를 보여주는 SQL JOIN 문을 작성하세요. (15점)
    
-![ex_screenshot](./resource/Test4_2.png)
+![ex_screenshot](./resource/Test4_1.png)
 
 ## 평가 기준
 - **데이터베이스 모델링**: 관계형 데이터베이스 구조를 이해하며 적절한 테이블을 설계하는 능력.
