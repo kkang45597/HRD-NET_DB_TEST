@@ -37,7 +37,6 @@
 2. 특정 고객이 한 주문에 포함된 모든 제품과 그 수량을 조회하는 SQL SELECT 문을 작성하세요. (10점)
 
 ![ex_screenshot](./resource/Test2_5.png)
-![ex_screenshot](./resource/Test2_5_1.png)
 
 ## 문제 3: 데이터 갱신 및 삭제 (20점)
 **시나리오:**  
