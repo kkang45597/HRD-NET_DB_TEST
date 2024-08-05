@@ -25,13 +25,19 @@
    - 예시: 고객 2명, 제품 2개, 주문 2개, 각 주문당 2개의 제품
 
 ![ex_screenshot](./resource/Test2_1.png)
+![ex_screenshot](./resource/Test2_1_1.png)
+아래 UPDATE를 수행한 뒤에 찍었기에 입력값과 다르게 출력된다.
 ![ex_screenshot](./resource/Test2_2.png)
+![ex_screenshot](./resource/Test2_2_1.png)
 ![ex_screenshot](./resource/Test2_3.png)
+![ex_screenshot](./resource/Test2_3_1.png)
 ![ex_screenshot](./resource/Test2_4.png)
+![ex_screenshot](./resource/Test2_4_1.png)
 
 2. 특정 고객이 한 주문에 포함된 모든 제품과 그 수량을 조회하는 SQL SELECT 문을 작성하세요. (10점)
 
 ![ex_screenshot](./resource/Test2_5.png)
+![ex_screenshot](./resource/Test2_5_1.png)
 
 ## 문제 3: 데이터 갱신 및 삭제 (20점)
 **시나리오:**  
